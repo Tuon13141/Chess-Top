@@ -1,9 +1,9 @@
-const cacheName = "Athene-PokeChess-0.1.1";
+const cacheName = "DefaultCompany-PokeChess-0.1.0";
 const contentToCache = [
-    "Build/AtheneChess_26-8-2024.loader.js",
-    "Build/AtheneChess_26-8-2024.framework.js.unityweb",
-    "Build/AtheneChess_26-8-2024.data.unityweb",
-    "Build/AtheneChess_26-8-2024.wasm.unityweb",
+    "Build/athenechess.loader.js",
+    "Build/athenechess.framework.js",
+    "Build/athenechess.data",
+    "Build/athenechess.wasm",
     "TemplateData/style.css"
 
 ];
